@@ -1,0 +1,17 @@
+# gitignore for math 111a final project
+
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# IPython
+profile_default/
+ipython_config.py
+
+# do not push datasets
+data/
+
+# irrelevant utils
+*/toolbox_nyu_depth_v2
+
+# Remove previous ipynb_checkpoints
+#   git rm -r .ipynb_checkpoints/
