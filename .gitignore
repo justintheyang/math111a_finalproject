@@ -11,7 +11,8 @@ ipython_config.py
 data/
 
 # irrelevant utils
-*/toolbox_nyu_depth_v2
+utils/toolbox_nyu_depth_v2/*
+utils/__pycache__/*
 
 # Remove previous ipynb_checkpoints
 #   git rm -r .ipynb_checkpoints/
